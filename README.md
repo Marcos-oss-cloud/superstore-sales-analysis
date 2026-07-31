@@ -12,6 +12,8 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ![License](https://img.shields.io/badge/License-MIT-green)
+
+
 An end-to-end Exploratory Data Analysis (EDA) project developed using Python to identify business insights from the Sample Superstore dataset.
 
 ---
