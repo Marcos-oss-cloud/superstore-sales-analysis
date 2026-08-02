@@ -86,6 +86,31 @@ Business Recommendations
 Conclusion
 
 ---
+# 📈 Key Visualizations
+
+## Sales by Category
+
+![Sales by Category](images/sales_by_category.png)
+
+---
+
+## Average Profit by Discount
+
+![Average Profit by Discount](images/Average%20Profit%20by%20Discount.png)
+
+---
+
+## Monthly Sales Trend
+
+![Monthly Sales Trend](images/Monthly%20Sales%20Trend.png)
+
+---
+
+## Top Products by Sales
+
+![Top Products by Sales](images/top_products_sales.png)
+
+
 
 # 💡 Key Business Insights
 
