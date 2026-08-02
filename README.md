@@ -207,7 +207,7 @@ Manufacturing Engineering Student @ UNICAMP
 Aspiring Data Analyst
 
 LinkedIn:
-(Your LinkedIn)
+www.linkedin.com/in/marcos-paulo-mestiço
 
 GitHub:
 (Your GitHub)
