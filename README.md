@@ -86,8 +86,7 @@ Business Recommendations
 Conclusion
 
 ---
-# 📈 Key Visualizations
-
+# 📈 Project Results
 ## Sales by Category
 
 ![Sales by Category](images/sales_by_category.png)
