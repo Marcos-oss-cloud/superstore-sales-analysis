@@ -1,6 +1,8 @@
 # 📊 Superstore Sales Analysis
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
+
 
 
 An end-to-end Exploratory Data Analysis (EDA) project developed using Python to identify business insights from the Sample Superstore dataset.
