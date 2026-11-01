@@ -201,7 +201,7 @@ Kaggle
 
 Marcos Paulo Mestiço Vieira Queiroz
 
-Manufacturing Engineering Student @ UNICAMP
+Industrial Engineering Student @ UNICAMP
 
 Aspiring Data Analyst
 
